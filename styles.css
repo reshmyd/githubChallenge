@@ -7,16 +7,21 @@
   display:flex;
   justify-content: end;
   background: black;
+  height:40px;
 
 }
-.nav-bar .left{
+.left{
   margin-right:auto;
   background: green;
+  padding:10px;
+  width:15%;
+  color:white;
+  font-size:16px;
 
 }
 .nav-bar a{
   padding:10px;
-  margin:20px;
+  margin-right:20px;
   text-decoration: none;
   color:white;
 }

@@ -1,0 +1,54 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+}
+.nav-bar{
+  display:flex;
+  justify-content: end;
+  background: black;
+
+}
+.nav-bar .left{
+  margin-right:auto;
+  background: green;
+
+}
+.nav-bar a{
+  padding:10px;
+  margin:20px;
+  text-decoration: none;
+  color:white;
+}
+main{
+  display:flex;
+  
+}
+div{
+  border:1px solid black;
+  margin:40px;
+  padding:40px;
+}
+.big{
+  width:60%;
+  border:none;
+  padding:0;
+  
+
+}
+.small{
+  width:40%;
+}
+.margin{
+  margin:0;
+}
+.margin1{
+  margin-bottom: 20px;
+}
+ul{
+  padding: 40px;
+  
+}
+p{
+  margin-top:20px;
+}
